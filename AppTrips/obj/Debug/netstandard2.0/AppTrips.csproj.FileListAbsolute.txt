@@ -1,0 +1,47 @@
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\bin\Debug\netstandard2.0\AppTrips.deps.json
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\bin\Debug\netstandard2.0\AppTrips.dll
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\bin\Debug\netstandard2.0\ref\AppTrips.dll
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\bin\Debug\netstandard2.0\AppTrips.pdb
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\AppTrips.csprojAssemblyReference.cache
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\Views\TripDetailPage.xaml.g.cs
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\Views\TripsPage.xaml.g.cs
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\AppTrips.AssemblyInfoInputs.cache
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\AppTrips.AssemblyInfo.cs
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\AppTrips.dll
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\ref\AppTrips.dll
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\AppTrips.pdb
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\Views\TripMapPage.xaml.g.cs
+C:\Users\Angel\Pictures\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\bin\Debug\netstandard2.0\AppTrips.deps.json
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\bin\Debug\netstandard2.0\AppTrips.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\bin\Debug\netstandard2.0\ref\AppTrips.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\bin\Debug\netstandard2.0\AppTrips.pdb
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\AppTrips.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\Views\TripDetailPage.xaml.g.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\Views\TripMapPage.xaml.g.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\Views\TripsPage.xaml.g.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\AppTrips.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\AppTrips.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\AppTrips.AssemblyInfo.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\AppTrips.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\ref\AppTrips.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master\AppTrips\obj\Debug\netstandard2.0\AppTrips.pdb
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\bin\Debug\netstandard2.0\AppTrips.deps.json
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\bin\Debug\netstandard2.0\AppTrips.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\bin\Debug\netstandard2.0\ref\AppTrips.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\bin\Debug\netstandard2.0\AppTrips.pdb
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\obj\Debug\netstandard2.0\AppTrips.csprojAssemblyReference.cache
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\obj\Debug\netstandard2.0\Views\TripDetailPage.xaml.g.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\obj\Debug\netstandard2.0\Views\TripMapPage.xaml.g.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\obj\Debug\netstandard2.0\Views\TripsPage.xaml.g.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\obj\Debug\netstandard2.0\AppTrips.csproj.CoreCompileInputs.cache
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\obj\Debug\netstandard2.0\AppTrips.AssemblyInfoInputs.cache
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\obj\Debug\netstandard2.0\AppTrips.AssemblyInfo.cs
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\obj\Debug\netstandard2.0\AppTrips.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\obj\Debug\netstandard2.0\ref\AppTrips.dll
+C:\Users\victo\Desktop\4 SEMESTRE\PROGRAMACION MULTIPLATAFORMA\AppTrips-master - copia\AppTrips\obj\Debug\netstandard2.0\AppTrips.pdb

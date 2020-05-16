@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:converter="clr-namespace:AppTrips.Converters"
+             xmlns:triggers="clr-namespace:AppTrips.Triggers"
+             xmlns:renders="clr-namespace:AppTrips.Renders"
+             mc:Ignorable="d"
+             x:Class="AppTrips.Views.TripDetailPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converter:ImageConverter x:Key="ImageConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Guardar" Command="{Binding SaveCommand}" />
+        <ToolbarItem Text="Eliminar" Command="{Binding EliminateCommand}" />
+        <ToolbarItem Text="Mapa" Command="{Binding MapCommand}" />
+    </ContentPage.ToolbarItems>
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout
+                    BackgroundColor="#CCFFFF"
+                   >
+                <ActivityIndicator
+                    IsRunning="{Binding IsBusy}"
+                    d:IsRunning="True" />
+                <Entry 
+                    
+                    Placeholder="Titulo" 
+                    Text="{Binding Title}" />
+                <DatePicker
+                    Date="{Binding TripDate}" />
+                <Entry
+                    Placeholder="Rating"
+                    Text="{Binding Rating}">
+                    <Entry.Triggers>
+                        <EventTrigger
+                            Event="TextChanged">
+                            <triggers:RatingTrigger />
+                        </EventTrigger>
+                    </Entry.Triggers>
+                </Entry>
+                <Stepper
+                    Increment="1"
+                    Maximum="5"
+                    Minimum="1"
+                    Value="{Binding Rating}" />
+                <Entry
+                    Placeholder="Latitud"
+                    Text="{Binding Latitude}" />
+                <Entry
+                    Placeholder="Longitud"
+                    Text="{Binding Longitude}" />
+                <Button
+                    Text="Obtener ubicación"
+                    Command="{Binding GetLocationCommand}" />
+                <Image
+                    Source="{Binding ImageUrl, Converter={StaticResource ImageConverter}}" />
+                <Button
+                    Text="Tomar fotografía"
+                    Command="{Binding TakePictureCommand}" />
+                <Button
+                    Text="Seleccionar fotografía"
+                    Command="{Binding SelectPictureCommand}" />
+                <Editor
+                    Placeholder="Notas"
+                    VerticalOptions="FillAndExpand"
+                    Text="{Binding Notes}"/>
+                <renders:myEntry Text="Prueba de render"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
